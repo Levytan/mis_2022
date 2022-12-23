@@ -1,0 +1,1 @@
+Tham khảo một số ví dụ Đại số quan hệ tại [đây](https://clbketnoitre.wordpress.com/2019/09/20/co-so-du-lieu-giai-bai-tap-ngon-ngu-dai-so-quan-he/) và [đây](https://cuuduongthancong.com/atc/36/ngon-ngu-dai-so-quan-he----ths.-thai-bao-tran).
